@@ -2,10 +2,10 @@
 
 ## Setup:
 Step 1. 
-	Download or copy `TITechPortalLogin.js`
+	Download or copy `TITechPortalLogin.js`.
 
 Step 2. 
-	Replace the 'XXXXXXXXXX' with the matrix printed on the Student Card
+	Replace `'XXXXXXXXXX'` with the matrix printed on the Student Card.
 
 Step 3.
 	Copy the whole text and save it as a bookmark.
